@@ -1,5 +1,5 @@
 "# hello-world"
 
-This is a beginner :)
+This is a new comer :)
 
 
